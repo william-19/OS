@@ -1,0 +1,1 @@
+ls | sort | sort | sort | sort | sort | sort | sort | sort | sort | sort | sort | sort | sort | sort | sort
